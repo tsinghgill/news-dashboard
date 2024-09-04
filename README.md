@@ -1,5 +1,7 @@
 # News Dashboard
 
+![News Dashboard Demo](dashboard.gif)
+
 A modern, responsive news aggregator built with React, featuring a sleek newspaper-inspired design.
 
 ## Project Description
